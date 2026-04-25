@@ -3,9 +3,8 @@
 🚀 MCA Student @ NIT Meghalaya
 💻 Full Stack Developer + AI Builder
 🧠 Exploring Machine Learning & Python
-📱 Building Mobile Apps with Expo
-🎯 Goal: Crack Google / $200k job
-🥇 Future Olympian (Pistol Shooting)
+📱 Building Mobile Apps with Expo on React-Native
+ 
 
 ---
 
