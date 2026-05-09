@@ -4,12 +4,9 @@
 💻 Full Stack Developer + AI Builder
 🧠 Exploring Machine Learning & Python
 📱 Building Mobile Apps with Expo on React-Native
- 
 ---
-
-## 🚀 Tech Stack
+## Tech Stacks
 ### 💻 Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
@@ -42,7 +39,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaketKumarp\&theme=tokyo-night)
 
-
 ---
 
 ## 📫 Connect With Me
@@ -50,7 +46,6 @@
 * LinkedIn ---> https://www.linkedin.com/in/saket-pandey-6b315225a/?skipRedirect=true
 * Twitter ----> https://x.com/Saket_Pandey11
 * Leetcode --> https://leetcode.com/u/Saket_Pandey11/ 
-
 
 ---
 
