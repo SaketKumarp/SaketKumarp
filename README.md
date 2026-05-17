@@ -10,20 +10,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-
-### ⚛️ Frontend & Mobile
-
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge\&logo=expo)
-### ⚙️ Backend & Tools
-
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge\&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge\&logo=tailwind-css)
-
-### 🧠 AI / ML
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge\&logo=tensorflow)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge\&logo=pytorch)
 
