@@ -64,13 +64,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaketKumarp/SaketKumarp/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
