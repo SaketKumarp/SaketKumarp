@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saket Kumar</h1>
 
-<h3 align="center">🚀 MCA Student @ NIT Meghalaya | 💻 Full Stack Developer | 🤖 AI Builder</h3>
+<h3 align="center">🚀   Student @ NIT Meghalaya | 💻 Full Stack Developer | 🤖 AI Builder</h3>
 
 <p align="center">
   Passionate about building impactful software, exploring AI, mastering mathematics, and pursuing excellence in competitive shooting.
