@@ -19,7 +19,7 @@
 - 🤖 Exploring AI, Machine Learning & Deep Learning
 - 📱 Building Mobile Apps with React Native & Expo
 - 🌐 Developing Modern Web Apps using Next.js
-- 🎯 Goal: Become a world-class software engineer and represent India in Olympic Shooting
+ 
 
 ---
 
@@ -84,5 +84,5 @@
 ---
 
 <h3 align="center">
-✨ Building Powerful Tech • 🤖 AI • 📚 Mathematics • 🥇 Olympic Dreams ✨
+✨ Building Powerful Tech • 🤖 AI • 📚 Mathematics  
 </h3>
