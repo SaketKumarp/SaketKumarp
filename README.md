@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saket Kumar</h1>
 
-<h3 align="center">🚀   Student @ NIT Meghalaya | 💻 Full Stack Developer | 🤖 AI Builder</h3>
+<h3 align="center">  Student @ NIT Meghalaya | full Stack Developer | AI Builder</h3>
 
 <p align="center">
   Passionate about building impactful software, exploring AI, mastering mathematics, and pursuing excellence in competitive shooting.
@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 MCA Student at NIT Meghalaya
-- 💻 Full Stack Developer
-- 🤖 Exploring AI, Machine Learning & Deep Learning
-- 📱 Building Mobile Apps with React Native & Expo
-- 🌐 Developing Modern Web Apps using Next.js
+- Student at NIT Meghalaya
+-  Full Stack Developer
+-  Exploring AI, Machine Learning & Deep Learning
+-  Building Mobile Apps with React Native & Expo
+-  Developing Modern Web Apps using Next.js
  
 
 ---
