@@ -6,9 +6,7 @@
   Passionate about building impactful software, exploring AI, mastering mathematics, and pursuing excellence in competitive shooting.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaketKumarp&color=1abc9c&style=for-the-badge" />
-</p>
+ 
 
 ---
 
